@@ -1,3 +1,4 @@
-name:prod
 server:
   port: 9529
+itcodeschool:
+  name: prod
