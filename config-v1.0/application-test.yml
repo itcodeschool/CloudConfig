@@ -1,5 +1,5 @@
 server:
-  port: 95280
+  port: 9528
 itcodeschool:
   name: test
      
